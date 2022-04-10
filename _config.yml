@@ -1,7 +1,10 @@
 title: bottify LAB
 description: Проекты в разработке и эксперименты
-show_downloads: false
-google_analytics:
+show_downloads: true
+
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
 
 theme: jekyll-theme-architect
 
